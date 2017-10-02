@@ -12,7 +12,7 @@ Compétences : Combat d10, Discrétion d6+2, Équitation d4, Perception d8, Per
 Atouts : Commandement, Contre-attaque, Ferveur, Frénésie.
 
 	PAR	RES
-	6	7 (2)
+	7	7 (2)
 
 ### Capacités spéciales
 - Commandement : Les troupes ont un bonus de +1 pour récupérer d’un état Secoué.
