@@ -22,5 +22,5 @@ Compétences : Combat d8, Intimidation d10+2, Magie d10, Perception d6, Persuas
 - _Invisibilité_ : Magie d10, PP — (à volonté), portée P, 3 (1/rd).
 - _Intangibilité_ : Magie d10, PP5, portée T, 3 (2/rd).
 - _Ravage_ : Magie d10, PP2-4, 16, Inst.
-- _Télékinésie_ : Magie d10, PP5 Portée 6, 3 (1 / rd).
+- _Télékinésie_ : Magie d10, PP5 Portée 8, 3 (1 / rd).
 - _Ténèbres_ : Magie d10, PP2, Portée 8, 3 (1 / rd).
