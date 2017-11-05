@@ -19,7 +19,7 @@ Handicaps : Deux mains gauches, Prudent.
 - Combatif : +2 pour annuler Secoué.
 
 ### Actions
-- Arc long : Tir d10, 15/30/60, 2d6.
+- Arc long : Tir d10-1, 15/30/60, 2d6.
 - Épée longue : Combat d8, 2d6.
 - Tireur d'élite : Visée (+2 en Tir) automatique si le personnage ne se déplace pas.
 
